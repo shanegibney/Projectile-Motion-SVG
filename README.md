@@ -1,6 +1,6 @@
 # SVG Projectile Motion Animation
 
-This animation has uses SVG and javaScript to simulate the motion of a projectile in two dimensions under the influence of a uniform gravitational field.
+Animation uses SVG and javaScript to simulate the motion of a projectile in two dimensions under the influence of a uniform gravitational field.
 
 See [gh-pages](https://shanegibney.github.io/Projectile-Motion-SVG/)
 
